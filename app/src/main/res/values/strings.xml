@@ -22,5 +22,4 @@
     </string>
     <string name="stop_tracking_location">Stop Tracking Location</string>
     <string name="address_text">"Address: %1$s \n Timestamp: %2$tr"</string>
-    <string name="test">test</string>
 </resources>
